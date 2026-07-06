@@ -1,0 +1,4 @@
+# GitHub Pages 배포는 index.html만 (나머지 로컬 전용)
+*
+!index.html
+!.gitignore
